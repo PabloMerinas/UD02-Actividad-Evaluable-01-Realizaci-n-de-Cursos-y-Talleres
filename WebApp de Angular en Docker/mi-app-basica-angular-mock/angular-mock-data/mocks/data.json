@@ -1,0 +1,46 @@
+{
+  "avengers": [
+    {
+      "id": 0,
+      "actor": "Robert Downey Jr. (mocked)",
+      "description": "Iron Man (Anthony Edward 'Tony' Stark) is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby...",
+      "name": "Iron Man",
+      "urlimage": "https://d29fhpw069ctt2.cloudfront.net/icon/image/59598/preview.svg"
+    },
+    {
+      "id": 1,
+      "actor": "Tom Holland (mocked)",
+      "description": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books...",
+      "name": "Spider-Man",
+      "urlimage": "https://d29fhpw069ctt2.cloudfront.net/icon/image/59595/preview.svg"
+    },
+    {
+      "id": 2,
+      "actor": "Chris Evans (mocked)",
+      "description": "Captain America (Steve Rogers) is a fictional superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby, the character first appeared in Captain America Comics #1 (cover dated March 1941) from Timely Comics, a predecessor of Marvel Comics...",
+      "name": "American Captain",
+      "urlimage": "https://d29fhpw069ctt2.cloudfront.net/icon/image/59598/preview.svg"
+    },
+    {
+      "id": 2,
+      "actor": "Scarlett Johansson (mocked)",
+      "description": "Natalia Alianovna Romanova (alias: Natasha Romanoff), colloquial: Black Widow is a fictional superhero appearing in American comic books published by Marvel Comics...",
+      "name": "Black Widow",
+      "urlimage": "https://d29fhpw069ctt2.cloudfront.net/icon/image/59601/preview.svg"
+    },
+    {
+      "id": 3,
+      "actor": "Chris Hemsworth (mocked)",
+      "description": "In Germanic mythology, Thor is a hammer-wielding god associated with thunder, lightning, storms, oak trees, strength, the protection of mankind, and also hallowing and fertility. Besides Old Norse Porr, extensions of the god occur in Old English as Punor, and in Old High German as Donar...",
+      "name": "Thor",
+      "urlimage": "https://d29fhpw069ctt2.cloudfront.net/icon/image/59602/preview.svg"
+    },
+    {
+      "id": 4,
+      "actor": "Mark Ruffalo (mocked)",
+      "description": "The Hulk is a fictional superhero appearing in publications by the American publisher Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962)...",
+      "name": "Hulk",
+      "urlimage": "https://d29fhpw069ctt2.cloudfront.net/icon/image/59592/preview.svg"
+    }
+  ]
+}
